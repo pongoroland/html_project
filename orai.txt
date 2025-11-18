@@ -1,0 +1,4 @@
+cimsorok 
+html cimsorok formazhatosaga
+cimsorokat formazhatjuk az az adhatunk nekik szint vagy megvaltoztathatjuk a meretuket ezt ugy fogjuk vegre hajtani hogy 
+<h1 sytle=fint-size:100px,;color: red;> nagy ésprios cimsor
